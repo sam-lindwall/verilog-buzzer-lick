@@ -2,6 +2,12 @@
 A Verilog implementation of the iconic jazz phrase “The Lick” on a Basys 2 FPGA using a piezo buzzer.  
 Demonstrates finite-state logic, clock division, and hardware-based audio generation.
 
+
+
+https://github.com/user-attachments/assets/ecfd9df6-c661-44eb-a068-6bef60054948
+
+
+
 ---
 
 ## Overview
